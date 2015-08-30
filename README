@@ -1,0 +1,6 @@
+This is MY app based on the book: MEAN Web Development. by packt
+
+Aug 27.2015: Latest Update: Got up to page 26.
+So far I've installed the latest versions of Node and Mongo (I think, globally).
+And I've installed Express and Grunt via the package.json file.
+I'll worry about Angular when the book gets to it.
